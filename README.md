@@ -1,8 +1,8 @@
 # SpringLearning
 *Repository created to tract all the progress made during my Spring learning journey. more new independent projects will get created to high light a specific feature*
 
-<ol> **FirstApp** showCase how to perform below Crud operation on a simple Student table in postgresql :
-<li><ul>
+<ol> <li>**FirstApp** showCase how to perform below Crud operation on a simple Student table in postgresql :
+<ul>
     <li>ADD</li>
     <li>ADD List</li>
     <li>Remove</li>
